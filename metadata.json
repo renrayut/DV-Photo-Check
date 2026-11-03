@@ -1,0 +1,6 @@
+{
+  "name": "DV Photo Validator & Cropper",
+  "description": "Official Diversity Visa (DV) lottery photo checker with real-time automated validation for dimensions, file size, background quality, and interactive cropping compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
